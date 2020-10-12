@@ -15,4 +15,4 @@
 
 style="ribbon_bottom_round"
 
-rofi -no-lazy-grab -show drun -theme launchers-ribbon/"$style".rasi
+rofi -no-lazy-grab -show combi -combi-modi drun,run -theme launchers-ribbon/"$style".rasi
